@@ -79,15 +79,19 @@ const Hero = () => {
               </div>
 
               {/* Simple Dots Indicator below image */}
-              <div className="mt-3 flex justify-center space-x-2">
+              <div className="mt-3 flex justify-center space-x-2" role="tablist" aria-label="Registration steps">
                 {carouselImages.map((_, index) => (
                   <button
                     key={index}
+                    type="button"
+                    role="tab"
+                    aria-label={`Show registration step ${index + 1}`}
+                    aria-selected={index === currentSlide}
                     onClick={() => setCurrentSlide(index)}
                     className={`w-2.5 h-2.5 rounded-full transition-all duration-300 ${
-                      index === currentSlide 
-                        ? 'bg-gradient-primary scale-110 shadow-glow' 
-                        : 'bg-white/60 hover:bg-white/80'
+                      index === currentSlide
+                        ? "bg-gradient-primary scale-110 shadow-glow"
+                        : "bg-white/60 hover:bg-white/80"
                     }`}
                   />
                 ))}

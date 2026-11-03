@@ -8,7 +8,9 @@
   "entries": [
     {
       "identifier": "urn:air:raxi-win.org:site:llms",
-      "type": "text/plain",
+      "displayName": "Raxi Win site summary (llms.txt)",
+      "type": "text/markdown",
+      "mediaType": "text/markdown",
       "url": "https://raxi-win.org/llms.txt",
       "representativeQueries": [
         "Raxi Win login",
@@ -18,7 +20,9 @@
     },
     {
       "identifier": "urn:air:raxi-win.org:site:llms-full",
-      "type": "text/plain",
+      "displayName": "Raxi Win full LLM context",
+      "type": "text/markdown",
+      "mediaType": "text/markdown",
       "url": "https://raxi-win.org/llms-full.txt",
       "representativeQueries": [
         "Raxi Win gift code",
