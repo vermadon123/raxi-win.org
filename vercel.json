@@ -1,0 +1,28 @@
+{
+  "rewrites": [
+    { "source": "/login", "destination": "/login/index.html" },
+    { "source": "/registration", "destination": "/registration/index.html" },
+    { "source": "/apk", "destination": "/apk/index.html" },
+    { "source": "/about", "destination": "/about/index.html" },
+    { "source": "/blog", "destination": "/blog/index.html" },
+    { "source": "/blog/0", "destination": "/blog/0/index.html" },
+    { "source": "/blog/1", "destination": "/blog/1/index.html" },
+    { "source": "/blog/2", "destination": "/blog/2/index.html" },
+    { "source": "/terms", "destination": "/terms/index.html" },
+    { "source": "/((?!assets/|.*\\..*).*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(js|css|webp|png|jpg|jpeg|ico|svg|woff2)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    }
+  ]
+}

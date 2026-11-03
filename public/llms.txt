@@ -1,0 +1,31 @@
+# Raxi Win
+> Official website for Raxi Win — India's online gaming platform for colour prediction, lottery games, and more.
+
+Domain: https://raxi-win.org
+
+## Main pages
+- [Home](https://raxi-win.org/): Raxi Win overview, featured games, bonuses, and app info
+- [About](https://raxi-win.org/about): About Raxi Win and why players choose the platform
+- [Registration Guide](https://raxi-win.org/registration): Step-by-step Raxi Win register guide
+- [Blog](https://raxi-win.org/blog): Guides, tips, and gaming news
+- [Terms & Conditions](https://raxi-win.org/terms): Platform rules and policies
+
+## Blog posts
+- [Password Recovery Guide](https://raxi-win.org/blog/0): How to reset a lost Raxi Win password (October 5, 2026)
+- [Register + Invite & Gift Codes](https://raxi-win.org/blog/1): How to register on Raxi Win and use invite/gift codes (October 7, 2026)
+- [Games Guide](https://raxi-win.org/blog/2): Chicken Road, Colour Prediction, 5D Lotre and more (October 9, 2026)
+
+## Key topics
+- Raxi Win login and register
+- Colour prediction game
+- Chicken Road, Wingo, K3 Lotre, 5D Lotre, TRX Hash, Aviator
+- Bonuses, referral / invite code, gift codes
+- App download for Android and iOS
+
+## Optional
+- [Full site summary for LLMs](https://raxi-win.org/llms-full.txt)
+- [Sitemap](https://raxi-win.org/sitemap.xml)
+- [Robots](https://raxi-win.org/robots.txt)
+
+## Contact / CTA
+Register: https://www.raxi12.com/#/register?invitationCode=18913432260

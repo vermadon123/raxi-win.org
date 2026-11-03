@@ -1,0 +1,44 @@
+RewriteEngine On
+
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Never rewrite SEO files into the React app
+RewriteRule ^(sitemap\.xml|robots\.txt|llms\.txt|llms-full\.txt|manifest\.json)$ - [L]
+
+# React SPA fallback
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+<IfModule mod_mime.c>
+  AddType application/xml .xml
+  AddType text/plain .txt
+</IfModule>
+
+# Soft headers only on normal pages; keep sitemap/robots clean for Google
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+
+  <Files "sitemap.xml">
+    Header unset Content-Security-Policy
+    Header unset X-Frame-Options
+    Header unset X-Content-Type-Options
+    Header set Content-Type "application/xml; charset=UTF-8"
+    Header set Cache-Control "no-cache, must-revalidate"
+  </Files>
+
+  <Files "robots.txt">
+    Header unset Content-Security-Policy
+    Header unset X-Frame-Options
+    Header set Content-Type "text/plain; charset=UTF-8"
+    Header set Cache-Control "no-cache, must-revalidate"
+  </Files>
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/javascript text/javascript
+</IfModule>
