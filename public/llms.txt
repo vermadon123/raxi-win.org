@@ -1,31 +1,45 @@
 # Raxi Win
-> Official website for Raxi Win — India's online gaming platform for colour prediction, lottery games, and more.
+> Official website for Raxi Win — colour prediction, WinGo-style games, login/register guides, gift codes, UPI tips, and APK safety for players in India.
 
 Domain: https://raxi-win.org
+Updated: 2026-11-04
 
 ## Main pages
-- [Home](https://raxi-win.org/): Raxi Win overview, featured games, bonuses, and app info
-- [About](https://raxi-win.org/about): About Raxi Win and why players choose the platform
-- [Registration Guide](https://raxi-win.org/registration): Step-by-step Raxi Win register guide
-- [Blog](https://raxi-win.org/blog): Guides, tips, and gaming news
-- [Terms & Conditions](https://raxi-win.org/terms): Platform rules and policies
+- [Home](https://raxi-win.org/): Overview, games, mentors, recharge/referral offers, gift code steps, deposit & withdrawal tips, FAQ
+- [Raxi Win Login](https://raxi-win.org/login): Phone login, OTP fixes, forgot password, fake login warnings
+- [Raxi Win Register](https://raxi-win.org/registration): Mobile signup, OTP, invite code, register FAQs
+- [Raxi Win APK](https://raxi-win.org/apk): Android install checklist, hack/mod warnings, browser fallback
+- [About](https://raxi-win.org/about): Platform overview and games
+- [Blog](https://raxi-win.org/blog): Guides and tips
+- [Terms & Conditions](https://raxi-win.org/terms): Rules and policies
 
 ## Blog posts
-- [Password Recovery Guide](https://raxi-win.org/blog/0): How to reset a lost Raxi Win password (October 5, 2026)
-- [Register + Invite & Gift Codes](https://raxi-win.org/blog/1): How to register on Raxi Win and use invite/gift codes (October 7, 2026)
+- [Password Recovery Guide](https://raxi-win.org/blog/0): Reset a lost Raxi Win password (October 5, 2026)
+- [Register + Invite & Gift Codes](https://raxi-win.org/blog/1): Register and use invite/gift codes (October 7, 2026)
 - [Games Guide](https://raxi-win.org/blog/2): Chicken Road, Colour Prediction, 5D Lotre and more (October 9, 2026)
 
-## Key topics
-- Raxi Win login and register
-- Colour prediction game
-- Chicken Road, Wingo, K3 Lotre, 5D Lotre, TRX Hash, Aviator
-- Bonuses, referral / invite code, gift codes
-- App download for Android and iOS
+## Home anchors
+- Mentors: https://raxi-win.org/#mentors
+- Offers & salary boards: https://raxi-win.org/#offers
+- Gift codes: https://raxi-win.org/#gift-code
+- Deposit & withdrawal: https://raxi-win.org/#payments
 
-## Optional
-- [Full site summary for LLMs](https://raxi-win.org/llms-full.txt)
+## Key topics
+- Raxi Win login, register, forgot password, OTP
+- Invite code / referral (default invite: 18913432260)
+- Gift code redeem (Account → Gifts)
+- PhonePe / UPI deposit, withdrawal support
+- APK vs browser; avoid hack/mod APKs
+- Colour prediction, WinGo, K3, 5D, TRX Hash, Aviator, Chicken Road
+- Mentors: Jane, Sabby, Thalia, Marianna, Karen
+
+## Discovery files
+- [Full LLM summary](https://raxi-win.org/llms-full.txt)
 - [Sitemap](https://raxi-win.org/sitemap.xml)
 - [Robots](https://raxi-win.org/robots.txt)
+- [AI Catalog](https://raxi-win.org/.well-known/ai-catalog.json)
 
-## Contact / CTA
-Register: https://www.raxi12.com/#/register?invitationCode=18913432260
+## CTAs
+- Register: https://www.raxi12.com/#/register?invitationCode=18913432260
+- Login: https://www.raxi12.com/#/login
+- Telegram: https://t.me/Newtrustedplateform

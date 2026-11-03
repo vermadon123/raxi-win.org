@@ -5,3 +5,6 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://raxi-win.org/sitemap.xml
+# LLM / agent discovery
+# https://raxi-win.org/llms.txt
+# https://raxi-win.org/.well-known/ai-catalog.json
