@@ -60,20 +60,23 @@ const Hero = () => {
             {/* Carousel Container */}
             <div className="relative w-full max-w-3xl mx-auto">
               {/* Main Carousel */}
-              <div className="relative w-full overflow-hidden rounded-xl shadow-lg">
+              <div className="relative w-full overflow-hidden rounded-xl shadow-lg aspect-video bg-muted/30">
                 {carouselImages.map((image, index) => (
                   <div
                     key={index}
-                    className={`${index === currentSlide ? 'block' : 'hidden'} group`}
+                    className={`absolute inset-0 group ${
+                      index === currentSlide ? "opacity-100" : "opacity-0 pointer-events-none"
+                    }`}
                   >
-                    {/* Image with Simple Hover Effect */}
-                    <div className="w-full">
-                      <img
-                        src={image}
-                        alt={`Registration Step ${index + 1}`}
-                        className="w-full h-auto object-contain rounded-xl shadow-lg transition-transform duration-500 group-hover:scale-105"
-                      />
-                    </div>
+                    <img
+                      src={image}
+                      alt={`Registration Step ${index + 1}`}
+                      width={1280}
+                      height={720}
+                      decoding="async"
+                      fetchPriority={index === 0 ? "high" : "low"}
+                      className="w-full h-full object-contain rounded-xl"
+                    />
                   </div>
                 ))}
               </div>

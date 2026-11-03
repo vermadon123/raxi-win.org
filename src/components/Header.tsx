@@ -39,6 +39,9 @@ const Header = () => {
             <img
               src={logo}
               alt="Raxi Win"
+              width={320}
+              height={120}
+              decoding="async"
               className="h-12 md:h-14 w-auto max-w-[180px] object-contain"
             />
           </Link>
