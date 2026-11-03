@@ -1,0 +1,30 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Raxi Win",
+    "identifier": "raxi-win.org",
+    "documentationUrl": "https://raxi-win.org/llms.txt"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:raxi-win.org:site:llms",
+      "type": "text/plain",
+      "url": "https://raxi-win.org/llms.txt",
+      "representativeQueries": [
+        "Raxi Win login",
+        "Raxi Win register",
+        "Raxi Win APK"
+      ]
+    },
+    {
+      "identifier": "urn:air:raxi-win.org:site:llms-full",
+      "type": "text/plain",
+      "url": "https://raxi-win.org/llms-full.txt",
+      "representativeQueries": [
+        "Raxi Win gift code",
+        "Raxi Win deposit",
+        "colour prediction guide"
+      ]
+    }
+  ]
+}

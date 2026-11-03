@@ -84,17 +84,28 @@ const Header = () => {
               </Button>
             </a>
             <button
+              type="button"
               className="p-2 rounded-lg bg-gradient-primary hover:bg-gradient-primary/90 transition-all duration-300 shadow-glow"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              aria-label={isMobileMenuOpen ? "Close navigation menu" : "Open navigation menu"}
+              aria-expanded={isMobileMenuOpen}
+              aria-controls="mobile-nav-menu"
             >
-              {isMobileMenuOpen ? <X size={20} className="text-white" /> : <Menu size={20} className="text-white" />}
+              {isMobileMenuOpen ? (
+                <X size={20} className="text-white" aria-hidden="true" />
+              ) : (
+                <Menu size={20} className="text-white" aria-hidden="true" />
+              )}
             </button>
           </div>
         </div>
 
         {/* Enhanced Mobile Menu */}
         {isMobileMenuOpen && (
-          <div className="md:hidden absolute top-full left-0 right-0 mt-2 mx-4">
+          <div
+            id="mobile-nav-menu"
+            className="md:hidden absolute top-full left-0 right-0 mt-2 mx-4"
+          >
             <div className="bg-background rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] border border-white/10 p-6 animate-scroll-reveal">
               <div className="flex flex-col space-y-4">
                 {navItems.map((item) => (
