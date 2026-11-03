@@ -5,4 +5,3 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://raxi-win.org/sitemap.xml
-Agentmap: https://raxi-win.org/.well-known/ai-catalog.json
