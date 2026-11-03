@@ -138,10 +138,15 @@ const Features = () => {
               Interested in a partnership? Contact us to learn more about the Raxi Win agent program and start earning.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="https://t.me/Newtrustedplateform" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://t.me/Newtrustedplateform"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Open Raxi Win agent program on Telegram"
+              >
                 <button className="glass-effect px-8 py-4 rounded-xl font-semibold transition-all duration-300 hover:scale-105 flex items-center justify-center">
                   <FaTelegramPlane className="mr-2" />
-                  Learn More
+                  Raxi Win agent Telegram
                 </button>
               </a>
             </div>
