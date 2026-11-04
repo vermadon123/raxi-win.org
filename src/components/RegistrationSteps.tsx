@@ -17,7 +17,7 @@ const RegistrationSteps = () => {
     {
       icon: Gift,
       title: "Add Invite Code",
-      description: "Use code 18913432260 for extra ₹100 bonus",
+      description: "Use code 62622134117 for extra ₹100 bonus",
       color: "gaming-yellow"
     },
     {

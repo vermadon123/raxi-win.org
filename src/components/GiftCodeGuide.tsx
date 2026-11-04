@@ -58,7 +58,7 @@ const GiftCodeGuide = () => {
               the redemption notes on that screen.
             </p>
             <div className="mt-auto pt-6">
-              <a href="https://www.raxi12.com/#/login" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                 <Button variant="hero" size="lg" className="w-full sm:w-auto">
                   Open Raxi Win Login
                 </Button>

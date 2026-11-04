@@ -26,7 +26,7 @@ Updated: 2026-11-04
 
 ## Key topics
 - Raxi Win login, register, forgot password, OTP
-- Invite code / referral (default invite: 18913432260)
+- Invite code / referral (default invite: 62622134117)
 - Gift code redeem (Account → Gifts)
 - PhonePe / UPI deposit, withdrawal support
 - APK vs browser; avoid hack/mod APKs
@@ -40,6 +40,6 @@ Updated: 2026-11-04
 - [AI Catalog](https://raxi-win.org/.well-known/ai-catalog.json)
 
 ## CTAs
-- Register: https://www.raxi12.com/#/register?invitationCode=18913432260
-- Login: https://www.raxi12.com/#/login
+- Register: https://www.raxi888.com/#/register?invitationCode=62622134117
+- Login: https://www.raxi888.com/#/register?invitationCode=62622134117
 - Telegram: https://t.me/Newtrustedplateform

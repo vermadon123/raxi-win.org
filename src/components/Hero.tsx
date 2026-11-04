@@ -104,7 +104,7 @@ const Hero = () => {
 
           {/* CTA Buttons with enhanced 3D */}
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 animate-scroll-reveal">
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="xl" className="group shadow-[0_12px_24px_hsl(var(--gaming-orange)_/_0.4),0_6px_12px_hsl(var(--gaming-orange)_/_0.3),inset_0_1px_0_hsl(0_0%_100%_/_0.3),inset_0_-1px_0_hsl(0_0%_0%_/_0.2)] transform hover:scale-105 hover:shadow-glow hover:-translate-y-2 transition-all duration-500">
                 <Play className="w-6 h-6 mr-2 group-hover:scale-110 transition-transform" />
                 Raxi Win Register

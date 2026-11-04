@@ -351,7 +351,7 @@ const TermsAndConditions = () => {
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
                 If you have any questions about Raxi Win policies, please reach out to our support team. We're available 24/7 via live chat, email, or phone.
               </p>
-              <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                 <Button variant="hero" size="lg" className="shadow-glow">
                   Contact Support
                 </Button>
@@ -405,7 +405,7 @@ const TermsAndConditions = () => {
                     Registration Guide
                   </Button>
                 </Link>
-                <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                   <Button variant="glass" size="lg" className="w-full sm:w-auto">
                     Login Now
                   </Button>

@@ -21,7 +21,7 @@ const FAQ = () => {
     {
       question: "Where do I get the Raxi Win invite code?",
       answer:
-        "Invite code 18913432260 is listed in App Information on this site. Paste it only in the invite field during register if you want that referral path. The field is optional on many builds.",
+        "Invite code 62622134117 is listed in App Information on this site. Paste it only in the invite field during register if you want that referral path. The field is optional on many builds.",
     },
     {
       question: "How do I redeem a Raxi Win gift code?",

@@ -50,13 +50,13 @@ const Footer = () => {
                 Get the best gaming experience on your mobile device. Play, Win & Earn anywhere, anytime.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                   <Button variant="hero" size="lg" className="flex-1">
                     <Download className="w-5 h-5 mr-2" />
                     Download for Android
                   </Button>
                 </a>
-                <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                   <Button variant="glass" size="lg" className="flex-1">
                     <Download className="w-5 h-5 mr-2" />
                     Download for iOS

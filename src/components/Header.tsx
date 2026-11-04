@@ -62,12 +62,12 @@ const Header = () => {
 
           {/* CTA Buttons - Desktop */}
           <div className="hidden md:flex items-center space-x-4">
-            <a href="https://www.raxi12.com/#/login" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="lg">
                 Login
               </Button>
             </a>
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="lg">
                 Register
               </Button>
@@ -76,12 +76,12 @@ const Header = () => {
 
           {/* Mobile CTA Buttons & Menu */}
           <div className="md:hidden flex items-center space-x-3">
-            <a href="https://www.raxi12.com/#/login" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="sm">
                 Login
               </Button>
             </a>
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="sm">
                 Register
               </Button>
@@ -123,12 +123,12 @@ const Header = () => {
                   </a>
                 ))}
               <div className="flex flex-col space-y-3 pt-4 border-t border-white/10">
-                <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                   <Button variant="hero" size="lg" className="w-full">
                     Login
                   </Button>
                 </a>
-                <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
                   <Button variant="hero" size="lg" className="w-full">
                     Register
                   </Button>

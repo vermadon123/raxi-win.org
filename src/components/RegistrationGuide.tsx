@@ -24,7 +24,7 @@ const RegistrationGuide = () => {
     },
     {
       title: "Step 3: Review Your Information",
-      description: "Before continuing, ensure all required fields are correctly filled: Mobile Number, Password and Confirm Password, Invite Code: 18913432260. Carefully verify your details to avoid any issues during registration.",
+      description: "Before continuing, ensure all required fields are correctly filled: Mobile Number, Password and Confirm Password, Invite Code: 62622134117. Carefully verify your details to avoid any issues during registration.",
       image: raxiloginstep3
     },
     {

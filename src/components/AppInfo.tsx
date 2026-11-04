@@ -3,7 +3,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 const AppInfo = () => {
   const appData = [
     { label: "App Name", value: "raxiwin app" },
-    { label: "Raxi Win Invite Code", value: "18913432260" },
+    { label: "Raxi Win Invite Code", value: "62622134117" },
     { label: "Best Feature", value: "A Lot Of Free Bonuses, Unlimited withdrawal" },
     { label: "APK Size", value: "7.5 MB" },
     { label: "Registration Bonus", value: "₹51" },

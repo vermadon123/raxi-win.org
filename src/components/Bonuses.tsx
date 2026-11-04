@@ -194,7 +194,7 @@ const Bonuses = () => {
             <p className="text-muted-foreground mb-6">
               Start earning today with the generous Raxi Win referral program and bonus structure.
             </p>
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="xl">
                 Start Earning Now
               </Button>

@@ -13,7 +13,7 @@ const RegisterGuideProse = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center sm:justify-start">
           <a
-            href="https://www.raxi12.com/#/register?invitationCode=18913432260"
+            href="https://www.raxi888.com/#/register?invitationCode=62622134117"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -74,7 +74,7 @@ const RegisterGuideProse = () => {
         <p className="text-muted-foreground leading-relaxed">
           The invite field is optional on most builds. Fill it only if someone you trust shared a code. On
           this site the listed invite code is{" "}
-          <strong className="text-foreground">18913432260</strong> (also under App Information). Leave the
+          <strong className="text-foreground">62622134117</strong> (also under App Information). Leave the
           box empty if you are unsure. Never pay only to “unlock” a code, and never send OTP to someone who
           claims they will register for you.
         </p>

@@ -126,7 +126,7 @@ const RegistrationForm = () => {
               id="inviteCode"
               name="inviteCode"
               type="text"
-              placeholder="18913432260"
+              placeholder="62622134117"
               value={formData.inviteCode}
               onChange={handleInputChange}
               className="gaming-card border-0 pl-12 h-12 text-lg shadow-[0_4px_12px_rgba(0,0,0,0.1),inset_0_1px_2px_rgba(255,255,255,0.1)] hover:shadow-[0_6px_20px_rgba(0,0,0,0.15),inset_0_1px_2px_rgba(255,255,255,0.15)] transition-all duration-300"

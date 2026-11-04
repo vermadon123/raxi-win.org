@@ -194,7 +194,7 @@ Click the Register Button to proceed.
 Before moving forward, make sure all the required fields are filled in accurately:
 • Mobile number
 • Password (and confirmation)
-• Invite Code: 18913432260
+• Invite Code: 62622134117
 Verify that everything is correct before continuing.
 
 ![Step 3: Verify Information](/assets/raxi-win-loginstep3.webp)
@@ -217,7 +217,7 @@ An invite code is a special code given by an existing player to a new user. It o
 
 Where to Find It: You can get an invite code from a friend, social media influencer, or a community group.
 
-How to Use It: During registration, enter the invite code (e.g., 18913432260) in the dedicated "Invite Code" box.
+How to Use It: During registration, enter the invite code (e.g., 62622134117) in the dedicated "Invite Code" box.
 
 Why Use It?: Using an invite code gives you a head start with rewards like free coins or deposit bonuses.
 
@@ -401,7 +401,7 @@ Beyond our trending titles, Raxi Win also features a variety of other exciting p
               </a>
             </p>
             <a
-              href="https://www.raxi12.com/#/register?invitationCode=18913432260"
+              href="https://www.raxi888.com/#/register?invitationCode=62622134117"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 bg-gradient-primary text-white font-semibold rounded-xl hover:scale-105 transition-transform duration-300"

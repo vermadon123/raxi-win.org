@@ -75,7 +75,7 @@ const AboutUs = () => {
             login when you return, and use UPI for deposits when you’re ready.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button className="gaming-button">
                 <Gamepad2 className="mr-2 h-5 w-5" />
                 Start Playing Now
@@ -198,7 +198,7 @@ const AboutUs = () => {
             and dive into the action.
           </p>
           <div className="flex justify-center">
-            <a href="https://www.raxi12.com/#/register?invitationCode=18913432260" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
               <Button className="gaming-button text-lg px-12 py-6">
                 <Gamepad2 className="mr-2 h-6 w-6" />
                 Start Playing Today

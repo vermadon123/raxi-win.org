@@ -96,7 +96,7 @@ const OfferPosters = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://www.raxi12.com/#/register?invitationCode=18913432260"
+            href="https://www.raxi888.com/#/register?invitationCode=62622134117"
             target="_blank"
             rel="noopener noreferrer"
           >

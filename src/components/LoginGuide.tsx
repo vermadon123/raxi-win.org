@@ -24,7 +24,7 @@ const LoginGuide = () => {
           first. Gift codes and UPI deposits only work after a successful login.
         </p>
         <div className="flex flex-col sm:flex-row gap-3">
-          <a href="https://www.raxi12.com/#/login" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.raxi888.com/#/register?invitationCode=62622134117" target="_blank" rel="noopener noreferrer">
             <Button variant="hero" size="lg">
               Open live Raxi Win Login
             </Button>
